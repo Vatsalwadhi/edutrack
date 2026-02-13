@@ -1,0 +1,86 @@
+{
+  "predictedFinalScore": 90,
+  "confidenceLevel": 85,
+  "riskLevel": "Low Risk",
+  "riskDescription": "Your current performance indicates low risk of academic difficulties. Continue your current pace to maintain this status.",
+  "academicStanding": "Excellent",
+  "improvementRate": "+2.5% monthly",
+  "expectedFinalGrade": "A",
+  "gradeRange": "A to A+",
+  "gradeProbability": 82,
+  "predictionVsActual": [
+    { "month": "Aug", "predicted": 80, "actual": 78 },
+    { "month": "Sep", "predicted": 83, "actual": 84 },
+    { "month": "Oct", "predicted": 85, "actual": 83 },
+    { "month": "Nov", "predicted": 86, "actual": 85 },
+    { "month": "Dec", "predicted": 88, "actual": 86 },
+    { "month": "Jan", "predicted": 90, "actual": 85 },
+    { "month": "Feb", "predicted": 92, "actual": null }
+  ],
+  "contributingFactors": [
+    { "name": "Exam Performance", "value": 35, "color": "#4f46e5" },
+    { "name": "Attendance", "value": 30, "color": "#10b981" },
+    { "name": "Marks", "value": 25, "color": "#7c3aed" },
+    { "name": "Assignments", "value": 10, "color": "#f59e0b" }
+  ],
+  "subjectPredictions": [
+    {
+      "subject": "Machine Learning",
+      "currentScore": "85%",
+      "predictedScore": "88%",
+      "expectedGrade": "A",
+      "improvement": "+3%"
+    },
+    {
+      "subject": "Database Management",
+      "currentScore": "78%",
+      "predictedScore": "82%",
+      "expectedGrade": "B+",
+      "improvement": "+4%"
+    },
+    {
+      "subject": "Software Engineering",
+      "currentScore": "89%",
+      "predictedScore": "91%",
+      "expectedGrade": "A+",
+      "improvement": "+2%"
+    },
+    {
+      "subject": "Computer Networks",
+      "currentScore": "82%",
+      "predictedScore": "85%",
+      "expectedGrade": "A",
+      "improvement": "+3%"
+    },
+    {
+      "subject": "Cloud Computing",
+      "currentScore": "87%",
+      "predictedScore": "89%",
+      "expectedGrade": "A",
+      "improvement": "+2%"
+    }
+  ],
+  "strengths": [
+    "Consistent attendance record (87%)",
+    "Strong performance in practical subjects",
+    "Excellent assignment submission rate"
+  ],
+  "areasToImprove": [
+    "Database Management attendance needs improvement",
+    "Focus more on theoretical concepts",
+    "Increase study time during weekends"
+  ],
+  "recommendations": [
+    "Join study groups for DBMS",
+    "Allocate 2 extra hours per week for theory",
+    "Complete pending assignments before deadlines"
+  ],
+  "classSkillAssessment": [
+    { "skill": "Problem Solving", "score": 85 },
+    { "skill": "Programming", "score": 90 },
+    { "skill": "Theory", "score": 70 },
+    { "skill": "Practical", "score": 88 },
+    { "skill": "Communication", "score": 65 },
+    { "skill": "Teamwork", "score": 75 }
+  ]
+}

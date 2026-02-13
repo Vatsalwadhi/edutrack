@@ -1,0 +1,93 @@
+[
+  {
+    "id": "S001",
+    "studentName": "Alex Johnson",
+    "email": "alex.johnson@university.edu",
+    "rollNumber": "S001",
+    "department": "Computer Science",
+    "semester": 5,
+    "gpa": 8.4,
+    "attendancePercentage": 87,
+    "riskLevel": "Low Risk",
+    "avatar": "A",
+    "avatarColor": "#7c3aed"
+  },
+  {
+    "id": "S002",
+    "studentName": "Emma Williams",
+    "email": "emma.williams@university.edu",
+    "rollNumber": "S002",
+    "department": "Computer Science",
+    "semester": 5,
+    "gpa": 9.1,
+    "attendancePercentage": 92,
+    "riskLevel": "Low Risk",
+    "avatar": "E",
+    "avatarColor": "#3b82f6"
+  },
+  {
+    "id": "S003",
+    "studentName": "Michael Brown",
+    "email": "michael.brown@university.edu",
+    "rollNumber": "S003",
+    "department": "Computer Science",
+    "semester": 5,
+    "gpa": 6.2,
+    "attendancePercentage": 65,
+    "riskLevel": "High Risk",
+    "avatar": "M",
+    "avatarColor": "#6366f1"
+  },
+  {
+    "id": "S004",
+    "studentName": "Sophia Davis",
+    "email": "sophia.davis@university.edu",
+    "rollNumber": "S004",
+    "department": "Computer Science",
+    "semester": 5,
+    "gpa": 7.5,
+    "attendancePercentage": 78,
+    "riskLevel": "Medium Risk",
+    "avatar": "S",
+    "avatarColor": "#8b5cf6"
+  },
+  {
+    "id": "S005",
+    "studentName": "James Wilson",
+    "email": "james.wilson@university.edu",
+    "rollNumber": "S005",
+    "department": "Computer Science",
+    "semester": 5,
+    "gpa": 7.8,
+    "attendancePercentage": 75,
+    "riskLevel": "Medium Risk",
+    "avatar": "J",
+    "avatarColor": "#ec4899"
+  },
+  {
+    "id": "S006",
+    "studentName": "Olivia Martinez",
+    "email": "olivia.martinez@university.edu",
+    "rollNumber": "S006",
+    "department": "Computer Science",
+    "semester": 5,
+    "gpa": 6.8,
+    "attendancePercentage": 70,
+    "riskLevel": "High Risk",
+    "avatar": "O",
+    "avatarColor": "#f59e0b"
+  },
+  {
+    "id": "S007",
+    "studentName": "Daniel Lee",
+    "email": "daniel.lee@university.edu",
+    "rollNumber": "S007",
+    "department": "Computer Science",
+    "semester": 5,
+    "gpa": 8.9,
+    "attendancePercentage": 94,
+    "riskLevel": "Low Risk",
+    "avatar": "D",
+    "avatarColor": "#10b981"
+  }
+]

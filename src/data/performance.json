@@ -1,0 +1,102 @@
+{
+  "subjectPerformance": [
+    {
+      "subject": "Machine Learning",
+      "code": "CS501",
+      "internal": 42,
+      "exam": 78,
+      "total": 120,
+      "percentage": "100.0%",
+      "attendance": "92%",
+      "credits": 4
+    },
+    {
+      "subject": "Database Management",
+      "code": "CS502",
+      "internal": 38,
+      "exam": 72,
+      "total": 110,
+      "percentage": "100.0%",
+      "attendance": "85%",
+      "credits": 4
+    },
+    {
+      "subject": "Software Engineering",
+      "code": "CS503",
+      "internal": 45,
+      "exam": 82,
+      "total": 127,
+      "percentage": "100.0%",
+      "attendance": "88%",
+      "credits": 3
+    },
+    {
+      "subject": "Computer Networks",
+      "code": "CS504",
+      "internal": 40,
+      "exam": 75,
+      "total": 115,
+      "percentage": "100.0%",
+      "attendance": "90%",
+      "credits": 4
+    },
+    {
+      "subject": "Cloud Computing",
+      "code": "CS505",
+      "internal": 44,
+      "exam": 80,
+      "total": 124,
+      "percentage": "100.0%",
+      "attendance": "87%",
+      "credits": 3
+    }
+  ],
+  "scoreDistribution": [
+    { "subject": "CS501", "internalMarks": 42, "examMarks": 78 },
+    { "subject": "CS502", "internalMarks": 38, "examMarks": 72 },
+    { "subject": "CS503", "internalMarks": 45, "examMarks": 82 },
+    { "subject": "CS504", "internalMarks": 40, "examMarks": 75 },
+    { "subject": "CS505", "internalMarks": 44, "examMarks": 80 }
+  ],
+  "performanceVsAttendance": [
+    { "subject": "CS501", "score": 85, "attendance": 92 },
+    { "subject": "CS502", "score": 78, "attendance": 85 },
+    { "subject": "CS503", "score": 89, "attendance": 88 },
+    { "subject": "CS504", "score": 82, "attendance": 90 },
+    { "subject": "CS505", "score": 87, "attendance": 87 }
+  ],
+  "improvementSuggestions": [
+    {
+      "subject": "Database Management",
+      "issue": "Low attendance (85%)",
+      "suggestion": "Attend remaining classes regularly to improve understanding",
+      "priority": "Medium Priority"
+    },
+    {
+      "subject": "Cloud Computing",
+      "issue": "Attendance below target",
+      "suggestion": "Focus on lab sessions and practical assignments",
+      "priority": "Medium Priority"
+    },
+    {
+      "subject": "Computer Networks",
+      "issue": "Internal marks can improve",
+      "suggestion": "Practice more numerical problems and attend tutorials",
+      "priority": "Low Priority"
+    }
+  ],
+  "classPerformanceDistribution": [
+    { "range": "90-100", "count": 5 },
+    { "range": "80-89", "count": 15 },
+    { "range": "70-79", "count": 12 },
+    { "range": "60-69", "count": 8 },
+    { "range": "Below 60", "count": 3 }
+  ],
+  "subjectAnalysis": [
+    { "subject": "ML", "internal": 82, "exam": 78, "assignment": 90 },
+    { "subject": "DBMS", "internal": 75, "exam": 72, "assignment": 85 },
+    { "subject": "SE", "internal": 88, "exam": 85, "assignment": 92 },
+    { "subject": "CN", "internal": 80, "exam": 75, "assignment": 78 },
+    { "subject": "CC", "internal": 85, "exam": 80, "assignment": 88 }
+  ]
+}

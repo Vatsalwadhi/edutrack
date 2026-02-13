@@ -1,0 +1,28 @@
+{
+  "studentAttendance": {
+    "overall": 87,
+    "subjects": [
+      { "code": "CS501", "subject": "Machine Learning", "percentage": 92 },
+      { "code": "CS502", "subject": "Database Management", "percentage": 85 },
+      { "code": "CS503", "subject": "Software Engineering", "percentage": 88 },
+      { "code": "CS504", "subject": "Computer Networks", "percentage": 90 },
+      { "code": "CS505", "subject": "Cloud Computing", "percentage": 87 }
+    ]
+  },
+  "classAttendanceTrend": [
+    { "month": "Aug", "attendance": 85 },
+    { "month": "Sep", "attendance": 88 },
+    { "month": "Oct", "attendance": 82 },
+    { "month": "Nov", "attendance": 80 },
+    { "month": "Dec", "attendance": 84 },
+    { "month": "Jan", "attendance": 83 }
+  ],
+  "monthlyProgressTrend": [
+    { "month": "Aug", "attendance": 80, "performance": 78 },
+    { "month": "Sep", "attendance": 85, "performance": 80 },
+    { "month": "Oct", "attendance": 83, "performance": 82 },
+    { "month": "Nov", "attendance": 88, "performance": 85 },
+    { "month": "Dec", "attendance": 90, "performance": 87 },
+    { "month": "Jan", "attendance": 92, "performance": 85 }
+  ]
+}
